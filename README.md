@@ -8,7 +8,7 @@ Numpy is a library for Python, which performs the same functions and more! The b
 * Standard Deviation (std)
 * Histogram
 
-Libraries Used: numpy, matplotlip
+Libraries Used: Numpy, Matplotlib
 
 Screenshot of Histogram:
 <img width="906" alt="numpy_stats" src="https://github.com/savitvitskiy/Numpy-Statistics/assets/44077338/17d21855-0f5e-4cca-b973-f74ac9e091ef">
